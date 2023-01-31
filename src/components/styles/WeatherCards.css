@@ -4,7 +4,7 @@
   border-radius: 25px;
   text-align: center;
   background-color: rgb(255, 255, 255);
-  background-image: url('./img/Soleado.jpg');
+  background-image: url('/img/Soleado.jpg');
   background-size: cover;
   background-position: top;
 
