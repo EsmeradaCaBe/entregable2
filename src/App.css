@@ -14,5 +14,5 @@
 }
 
   .bg-forecast.Clear {
-  background-image: url('./public/img/Despejado.jpg');
+  background-image: url('/img/Despejado.jpg');
 }
