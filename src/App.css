@@ -14,33 +14,5 @@
 }
 
   .bg-forecast.Clear {
-  background-image: url('./src/assets/img/Despejado.jpg');
+  background-image: url('./public/img/Despejado.jpg');
 }
-
-.bg-forecast.Thunderstorm { 
-  background-image: url('./assets/img/Thunder.jpg');
-}
-
-.bg-forecast.Drizzle div {
-  background-image: url('./assets/img/Nublado.jpg');
-}
-
-.bg-forecast.Rain {
-  background-image: url('./assets/img/Thunder.jpg');
-}
-
-.bg-forecast.Snow {
-  background-image: url('./assets/img/Nublado.jpg');
-}
-
-.bg-forecast.Mist,.bg-forecast.Smoke, .bg-forecast.Haze, .bg-forecast.Dust, 
-.bg-forecast.Fog, .bg-forecast.Sand, 	.bg-forecast.Ash, .bg-forecast.Squall,
-.bg-forecast.Tornado {
-  background-image: url('./src/assets/img/fondo.jpg');
-}
-
-.bg-forecast_Clouds  {
-background-image: url('./src/assets/img/Tarde.jpg');
-}
-
-
